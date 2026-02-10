@@ -12,7 +12,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ZeroOne AI](https://img.shields.io/badge/ZeroOne%20AI-000000?style=for-the-badge&logo=ai&logoColor=white)
+![ZeroOne AI](https://img.shields.io/badge/Z%20AI-000000?style=for-the-badge&logo=ai&logoColor=white)
 
 ## 🌐 Sosial Media:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
