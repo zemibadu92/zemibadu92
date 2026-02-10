@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I am zemibadu92
 
-<!--
-**zemibadu92/zemibadu92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate software developer with a strong focus on building scalable web applications. 
+I thrive on learning new technologies and applying them to solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- Software Development
+- Web Development
+- Database Management
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, CodeIgniter
+- **Database:** MySQL
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zemibadu92&show_icons=true&theme=radical)
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+- [Twitter](https://twitter.com/yourprofile)  
+- [Personal Website](https://yourwebsite.com)  
