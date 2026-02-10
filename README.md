@@ -1,15 +1,4 @@
 # Hi there! 👋 I am zemibadu92
-
-## About Me
-I am a passionate software developer with a strong focus on building scalable web applications. 
-I thrive on learning new technologies and applying them to solve real-world problems.
-
-## Skills
-- Software Development
-- Web Development
-- Database Management
-- Problem Solving
-
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, CodeIgniter
